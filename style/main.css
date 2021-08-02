@@ -1,0 +1,590 @@
+
+estilos
+.principal {
+  width: 960px;
+  height: 525px;
+  }
+.principal h1{
+  left: 360px;
+  font-size: 64px;
+  color: white;
+  top: 20px;
+  position: absolute;
+}
+.principal h2 {
+  font-size: 36px;
+  width: 290px;
+  color: white;
+top: 280px;
+left: 90px;
+position: absolute;
+}
+.skills {
+  width: 960px;
+  height: 424px;
+  background-color: #7299fe;
+}
+.skills h2{
+  width: 144px;
+  height: 42px;
+  left: 408px;
+  top: 552px;
+  font-size: 36px;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+}
+.skills p{
+  font-weight: bold;
+  color: white;
+  font-size: 16px;
+}
+.skill1 p{
+  width: 40px;
+  height: 21px;
+  left: 100px;
+  top: 610px;
+ position: absolute;
+}
+.barra1 {
+  width: 364px;
+  height: 17px;
+  left: 100px;
+  top: 650px;
+  position: absolute;
+  background: linear-gradient(
+    to right,
+    black 0%,
+    black 75%,
+    white 50%,
+    white 100%
+  );
+}
+.caja1 {
+  width: 364px;
+  height: 17px;
+  left: 100px;
+  top: 650px;
+  position: absolute;
+  background: linear-gradient(
+    to right,
+    white 0%,
+    white 25%,
+    black 50%,
+    black 100%
+  );
+  color: white;
+  -webkit-background-clip: text;
+}
+.skill2 p{
+  width: 40px;
+  height: 21px;
+  left: 100px;
+  top: 680px;
+   position: absolute;
+}
+.barra2 {
+  width: 364px;
+  height: 17px;
+  left: 100px;
+  top: 720px;
+  position: absolute;
+  background: linear-gradient(
+    to right,
+    black 0%,
+    black 60%,
+    white 50%,
+    white 100%
+  );
+}
+.caja2 {
+  width: 364px;
+  height: 17px;
+  left: 100px;
+  top: 720px;
+  position: absolute;
+  background: linear-gradient(
+    to right,
+    white 0%,
+    white 40%,
+    black 50%,
+    black 100%
+  );
+
+  color: white;
+  -webkit-background-clip: text;
+}
+.skill3 p{
+  width: 40px;
+  height: 21px;
+  left: 100px;
+  top: 770px;
+ position: absolute;
+}
+.barra3 {
+  width: 364px;
+  height: 17px;
+  left: 100px;
+  top: 810px;
+  position: absolute;
+  background: linear-gradient(
+    to right,
+    black 0%,
+    black 40%,
+    white 40%,
+    white 100%
+  );
+}
+.caja3 {
+  width: 364px;
+  height: 17px;
+  left: 1000px;
+  top: 50px;
+  position: absolute;
+  background: linear-gradient(
+    to right,
+    white 0%,
+    white 60%,
+    black 60%,
+    black 100%
+  );
+  color: white;
+  -webkit-background-clip: text;
+}
+.skill4 p{
+  width: 40px;
+  height: 21px;
+  left: 100px;
+ top: 860px;
+   position: absolute;
+}
+.barra4 {
+  width: 364px;
+  height: 17px;
+  left: 100px;
+  top: 900px;
+  position: absolute;
+  background: linear-gradient(
+    to right,
+    black 0%,
+    black 55%,
+    white 50%,
+    white 100%
+  );
+}
+.caja4 {
+  width: 364px;
+  height: 17px;
+  left: 100px;
+  top: 900px;
+  position: absolute;
+  background: linear-gradient(
+    to right,
+    white 0%,
+    white 45%,
+    black 50%,
+    black 100%
+  );
+  color: white;
+  -webkit-background-clip: text;
+}
+.skill5 p{
+  width: 85px;
+  height: 21px;
+  left: 500px;
+  top: 610px;
+ position: absolute;
+}
+.barra5 {
+    width: 364px;
+    height: 17px;
+    left: 500px;
+    top: 650px;
+    position: absolute;
+    background: linear-gradient(
+      to right,
+      black 0%,
+      black 70%,
+      white 50%,
+      white 100%
+    );
+  }
+ .caja5 {
+    width: 364px;
+    height: 17px;
+    left: 5000px;
+    top: 650px;
+    position: absolute;
+    background: linear-gradient(
+      to right,
+      white 0%,
+      white 30%,
+      black 50%,
+      black 100%
+    );
+    color: white;
+    -webkit-background-clip: text;
+  }
+  .skill6 p{
+    width: 40px;
+    height: 21px;
+    left: 500px;
+    top: 680px;
+   position: absolute;
+  }
+  .barra6 {
+    width: 364px;
+    height: 17px;
+    left: 500px;
+    top: 720px;
+    position: absolute;
+    background: linear-gradient(
+      to right,
+      black 0%,
+      black 40%,
+      white 40%,
+      white 100%
+    );
+  }
+ .caja6 {
+    width: 364px;
+    height: 17px;
+    left: 500px;
+    top: 720px;
+    position: absolute;
+    background: linear-gradient(
+      to right,
+      white 0%,
+      white 60%,
+      black 60%,
+      black 100%
+    );
+    color: white;
+    -webkit-background-clip: text;
+  }
+  .skill7 p{
+    width: 40px;
+    height: 21px;
+    left: 500px;
+    top: 770px;
+   position: absolute;
+  }
+  .barra7 {
+    width: 364px;
+    height: 17px;
+    left: 500px;
+    top: 810px;
+    position: absolute;
+    background: linear-gradient(
+      to right,
+      black 0%,
+      black 55%,
+      white 50%,
+      white 100%
+    );
+  }
+  .caja7 {
+    width: 364px;
+    height: 17px;
+    left: 500px;
+    top: 810px;
+    position: absolute;
+    background: linear-gradient(
+      to right,
+      white 0%,
+      white 55%,
+      black 50%,
+      black 100%
+    );
+      color: white;
+    -webkit-background-clip: text;
+  }
+  .skill8 p{
+    width: 40px;
+    height: 21px;
+    left: 500px;
+    top: 860px;
+    position: absolute;
+  }
+  .barra8 {
+    width: 364px;
+    height: 17px;
+    left: 500px;
+    top: 900px;
+    position: absolute;
+    background: linear-gradient(
+      to right,
+      black 0%,
+      black 50%,
+      white 50%,
+      white 100%
+    );
+  }
+  .caja8 {
+    width: 364px;
+    height: 17px;
+    left: 500px;
+    top: 900px;
+    position: absolute;
+    background: linear-gradient(
+      to right,
+      white 0%,
+      white 50%,
+      black 50%,
+      black 100%
+    );
+      color: white;
+    -webkit-background-clip: text;
+  }
+.servicios {
+  width: 960px;
+  height: 424px;
+  background-color: #fb7171;
+}
+.servicios h2 {
+    left: 420px;
+    top: 970px;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+  }
+  .servicios p{
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+  }
+
+.vistobueno1 img{
+  width: 44px;
+  height: 44px;
+  left: 226px;
+  top: 1072px;
+  position: absolute;
+}
+.vistobueno1 p{
+  width: 125px;
+  height: 28px;
+  left: 185px;
+  top: 1110px;
+  position: absolute;
+}
+.vistobueno2 img{
+  width: 44px;
+  height: 44px;
+  left: 470px;
+  top: 1072px;
+  position: absolute;
+}
+.vistobueno2 p{
+  width: 161px;
+  height: 28px;
+  left: 421px;
+  top: 1110px;
+  position: absolute;
+}
+.vistobueno3 img{
+  width: 44px;
+  height: 44px;
+  left: 687px;
+  top: 1071px;
+  position: absolute;
+}
+.vistobueno3 p{
+  width: 191px;
+  height: 28px;
+  left: 649px;
+  top: 1110px;
+  position: absolute;
+}
+.vistobueno4 img{
+  width: 44px;
+  height: 44px;
+  left: 226px;
+  top: 1211px;
+  position: absolute;
+}
+.vistobueno4 p{
+  width: 1045px;
+  height: 23px;
+  left: 190px;
+  top: 1249px;
+  position: absolute;
+}
+.vistobueno5 img{
+  width: 44px;
+  height: 44px;
+  left: 470px;
+  top: 1211px;
+  position: absolute;
+}
+.vistobueno5 p{
+  width: 112px;
+  height: 20px;
+  left: 432px;
+  top: 1249px;
+  position: absolute;
+}
+.vistobueno6 img{
+  width: 44px;
+  height: 44px;
+  left: 689px;
+  top: 1210px;
+  position: absolute;
+}
+.vistobueno6 p{
+  width: 215px;
+  height: 28px;
+  left: 640px;
+  top: 1249px;
+  position: absolute;
+}
+.portafolio {
+  width: 960px;
+  height: 424px;
+  background-color: #ffd233;
+}
+.portafolio h2 {
+  left: 420px;
+  top: 1400px;
+  font-size: 36px;
+  color: white;
+  position: absolute;
+}
+.portafolio #portafolio1{
+  top: 1503px;
+  left: 183px;
+  width: 140px;
+  height: 92px;
+  position: absolute;
+ }
+ .portafolio #portafolio2{
+  top: 1503px;
+  left: 334px;
+  position: absolute;
+ }
+ .portafolio #portafolio3{
+  top: 1503px;
+  left: 486px;
+  position: absolute;
+ }
+ .portafolio #portafolio4
+  {
+  top: 1503px;
+  left: 641px;
+  position: absolute;
+ }
+ .portafolio #portafolio5{
+  top: 1609px;
+  left: 182px;
+  position: absolute;
+ }
+ .portafolio #portafolio6{
+  top: 1609px;
+  left: 334px;
+  position: absolute;
+ }
+ .portafolio #portafolio7{
+  top: 1609px;
+  left: 486px;
+  position: absolute;
+ }
+ .portafolio #portafolio8
+  {
+  top: 1609px;
+  left: 641px;
+  position: absolute;
+ }
+.clientes {
+  width: 960px;
+  height: 258px;
+   background-color: #3f4e62;
+}
+.clientes img{
+  width: 178px;
+  height: 69px;
+  top: 1888px;
+  position: absolute;
+}
+.clientes h2 {
+  left: 413px;
+  font-size: 36px;
+  top: 1800px;
+  color: white;
+  position: absolute;
+}
+.clientes #cliente1{
+  top: 1900px;
+  left: 69px;
+}
+.clientes #cliente2{
+  left: 270px;
+  top: 1900px;
+}
+.clientes #cliente3{
+  left: 496px;
+  top: 1900px;
+}
+.clientes #cliente4{
+  left: 700px;
+  top: 1900px;
+}
+
+/*contacto*/
+.contacto {
+  width: 960px;
+  height: 578px;
+  color: white;
+  background-color: #16a085;
+}
+.contacto h2{
+  left: 406px;
+  top: 2058px;
+  font-size: 36px;
+  position: absolute;
+}
+.contacto #nombre {
+  position: absolute;
+  width: 363px;
+  height: 49px;
+  left: 100px;
+  top: 2156px;
+}
+.contacto #apellido {
+  position: absolute;
+  width: 363px;
+  height: 49px;
+  left: 496px;
+  top: 2156px;
+}
+.contacto #email {
+  position: absolute;
+  width: 363px;
+  height: 49px;
+  left: 100px;
+  top: 2248px;
+}
+.contacto #telefono {
+  position: absolute;
+  width: 363px;
+  height: 49px;
+  left: 496px;
+  top: 2248px;
+}
+.contacto #descripcion {
+  position: absolute;
+  width: 759px;
+  height: 112px;
+  left: 100px;
+  top: 2343px;
+}
+
+.contacto button {
+  position: absolute;
+  width: 167px;
+  color: white;
+  height: 56px;
+  left: 396px;
+  top: 2500px;
+  background-color: #233451;
+}
