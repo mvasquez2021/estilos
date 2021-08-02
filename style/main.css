@@ -1,5 +1,5 @@
 
-estilos
+/*estilos*/
 .principal {
   width: 960px;
   height: 525px;
@@ -110,7 +110,6 @@ position: absolute;
     black 50%,
     black 100%
   );
-
   color: white;
   -webkit-background-clip: text;
 }
@@ -354,7 +353,6 @@ position: absolute;
     color: white;
     font-size: 24px;
   }
-
 .vistobueno1 img{
   width: 44px;
   height: 44px;
@@ -529,7 +527,6 @@ position: absolute;
   left: 700px;
   top: 1900px;
 }
-
 /*contacto*/
 .contacto {
   width: 960px;
@@ -578,7 +575,6 @@ position: absolute;
   left: 100px;
   top: 2343px;
 }
-
 .contacto button {
   position: absolute;
   width: 167px;
